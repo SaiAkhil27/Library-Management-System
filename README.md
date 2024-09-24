@@ -18,7 +18,7 @@ The Library Management System is built with Java Spring Boot to manage the core 
 ## Setup & Installation
 
 #### Clone the Repository:
-git clone https://github.com/yourusername/Library-Management-System.git  
+git clone https://github.com/SaiAkhil27/Library-Management-System.git  
 cd Library-Management-System
 
 #### Configure MySQL:
